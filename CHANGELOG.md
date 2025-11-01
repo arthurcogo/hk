@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.21.0](https://github.com/jdx/hk/compare/v1.20.0..v1.21.0) - 2025-11-01
+
+### 🚀 Features
+
+- use recursive glob patterns in all builtins by [@jdx](https://github.com/jdx) in [#383](https://github.com/jdx/hk/pull/383)
+
 ## [1.20.0](https://github.com/jdx/hk/compare/v1.19.0..v1.20.0) - 2025-10-29
 
 ### 🚀 Features
